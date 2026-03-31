@@ -1,6 +1,7 @@
 """
 Ejercicio 6:
-Una tienda registra sus ventas diarias en una lista de números. Cada número representa el monto de ventas de un día.
+Una tienda registra sus ventas diarias en una lista de números. 
+Cada número representa el monto de ventas de un día.
 Se solicita calcular el total de ventas acumuladas.
 
 Debe implementar dos funciones:
